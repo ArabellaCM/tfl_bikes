@@ -1,8 +1,8 @@
 # Ironhack Final Project - What effect did Covid have on TFL's Cycle Hire Scheme?
 
-This repository contains the final project for the Ironhack Data Analysis course in Berlin Jan-Mar 2021
+This repository contains the final project for the Ironhack Data Analysis course in Berlin Jan-Mar 2021<br/>
 
-<br/>
+
 # Code and Resources Used
 - Python Version: 3.7 <br/>
 - Packages: pandas, numpy, sklearn, matplotlib, seaborn, statsmodel, geocoder, beautiful soup, requests <br/>
